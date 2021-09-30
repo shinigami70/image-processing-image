@@ -1,6 +1,6 @@
 # image-processing-image
 
 Libraries used
-OpenCV
-Numpy
-MatplotLib
+1. OpenCV
+2. Numpy
+3. MatplotLib
